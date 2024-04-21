@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayricoak&label=Profile%20views&color=0e75b6&style=flat-square" alt="mayricoak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayricoak" alt="mayricoak" /></a> </p>
-
 - 🔭 I’m currently working on [Nyenyak](https://github.com/w0n0g1ren/Nyenyak)
 
 - 🌱 I’m currently learning **Typescript and Kubernetes**

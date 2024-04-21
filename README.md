@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript and Kubernetes**
 
-- 💬 Ask me about **Node and php**
+- 💬 Ask me about **Backend related stuffs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

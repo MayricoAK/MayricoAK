@@ -2,7 +2,6 @@
 <h3 align="center">Welcome to my repository!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayricoak&label=Profile%20views&color=0e75b6&style=flat-square" alt="mayricoak" /> </p>
 I like to work with web project related.
-Currently learning <b>MERN, and Laravel</b>
 
 <h3 align="left">Feel free to contact me:</h3>
 <p>
